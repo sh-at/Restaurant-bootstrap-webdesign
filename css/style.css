@@ -1,0 +1,45 @@
+body h1{
+    font-family: "Cormorant Garamond";
+    color: #3e3e3e;
+    font-weight:400;
+}
+body{
+    background-color: #fff;
+}
+
+.home h3{
+    font-family: Sacramento;
+    color: rgb(250, 255, 108);
+    font-style:italic;
+    line-height: 1rem;
+    font-size:4rem;
+    font-size:50px;
+    padding-top: 20px;
+}
+    
+.home h1{
+    font-family: "Cormorant Garamond";
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-size:8vw;
+
+}
+.sh-name{
+    font-size:16px;
+    color:#3e3e3e;
+}
+.sh-role{
+    font-size:24px;
+    color:#b1b1b1;
+}
+.formmake a{
+    width:80px;
+    align-items: center;
+}
+#contact1 p{
+    font-style: italic;
+    font-family: poppin;
+}
+
+
